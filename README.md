@@ -1,1 +1,0 @@
-# perfect-number-or-not
